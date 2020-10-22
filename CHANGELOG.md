@@ -1,6 +1,7 @@
 # Unreleased
 
-[...]
+- **[UPDATE]** Add noHorizontalSpacing props on ItemsSection component
+  [...]
 
 # v41.4.0 (19/10/2020)
 
